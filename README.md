@@ -2,7 +2,7 @@
 SQL Practice with 80 questions and solutions covering SELECT, WHERE, filtering, sorting, LIKE, GROUP BY, aggregate functions, HAVING, and more using a Movies database.
 
 
-# 🎬 MovieDB SQL Practice (Q1–Q80)
+# 🎬 MovieDB SQL Practice (Q1–Q100)
 
 ## 📌 About the Project
 
