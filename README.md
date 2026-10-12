@@ -72,7 +72,7 @@ Through this practice, I have improved my understanding of SQL syntax, filtering
 
 GitHub: [shubham-6969](https://github.com/shubham-6969)
 
-Linkedin: (https://www.linkedin.com/in/shubhampatwal017)
+Linkedin: https://www.linkedin.com/in/shubhampatwal017
 
 Portfolio: [shubhampatwal.netlify.app](https://shubhampatwal.netlify.app)
 
