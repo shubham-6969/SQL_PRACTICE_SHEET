@@ -1,12 +1,12 @@
 # SQL_PRACTICE_SHEET
-SQL Practice with 80 questions and solutions covering SELECT, WHERE, filtering, sorting, LIKE, GROUP BY, aggregate functions, HAVING, and more using a Movies database.
+SQL Practice with 100 questions and solutions covering SELECT, WHERE, filtering, sorting, LIKE, GROUP BY, aggregate functions, HAVING, and more using a Movies database.
 
 
 # 🎬 MovieDB SQL Practice (Q1–Q100)
 
 ## 📌 About the Project
 
-This repository contains my SQL practice questions and solutions using a custom **MovieDB** database. I created a `Movies` table and solved 80 SQL questions to strengthen my understanding of SQL queries and data analysis concepts.
+This repository contains my SQL practice questions and solutions using a custom **MovieDB** database. I created a `Movies` table and solved 100 SQL questions to strengthen my understanding of SQL queries and data analysis concepts.
 
 This project is part of my journey toward becoming a **Data Analyst**.
 
@@ -53,7 +53,7 @@ The project uses a `Movies` table with the following columns:
 ## 📂 Repository Contents
 
 - SQL practice question sheet
-- SQL solutions for Questions 1–80
+- SQL solutions for Questions 1–100
 - Queries organized by question number for easier revision
 
 ## 📈 Progress
