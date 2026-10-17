@@ -36,19 +36,26 @@ This project is part of my journey toward becoming a **Data Analyst**.
 - Column aliases using `AS`
 - Combining multiple filtering conditions
 
-## 🗃️ Database Schema
+## 🎬 Movies Database Schema
 
-The project uses a `Movies` table with the following columns:
+The `Movies` table contains the following columns:
 
-| Column | Description |
+| Column Name | Data Type |
 |---|---|
-| `movie_id` | Unique movie identifier |
-| `title` | Movie title |
-| `release_year` | Year of release |
-| `genre` | Movie genre |
-| `language` | Movie language |
-| `duration_minutes` | Movie duration in minutes |
-| `rating` | Movie rating |
+| movie_id | INT (Primary Key) |
+| title | VARCHAR(100) |
+| release_year | INT |
+| genre | VARCHAR(50) |
+| language | VARCHAR(30) |
+| duration_minutes | INT |
+| rating | DECIMAL(3,1) |
+
+**SQL Query:**
+```sql
+SELECT * FROM Movies;
+```
+
+This query displays all records from the Movies table.
 
 ## 📂 Repository Contents
 
@@ -75,28 +82,6 @@ GitHub: [shubham-6969](https://github.com/shubham-6969)
 Linkedin: https://www.linkedin.com/in/shubhampatwal017
 
 Portfolio: [shubhampatwal.netlify.app](https://shubhampatwal.netlify.app)
-
-
-## 🎬 Movies Database Schema
-
-The `Movies` table contains the following columns:
-
-| Column Name | Data Type |
-|---|---|
-| movie_id | INT (Primary Key) |
-| title | VARCHAR(100) |
-| release_year | INT |
-| genre | VARCHAR(50) |
-| language | VARCHAR(30) |
-| duration_minutes | INT |
-| rating | DECIMAL(3,1) |
-
-**SQL Query:**
-```sql
-SELECT * FROM Movies;
-```
-
-This query displays all records from the Movies table.
 
 ---
 
